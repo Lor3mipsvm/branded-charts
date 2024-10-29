@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="sGYD Logo 128 x128.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.1997092"
+     inkscape:cx="-37.959563"
+     inkscape:cy="-18.184222"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24182-2"
+       id="linearGradient1375"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-270.5319,-103.76506)"
+       x1="4964.0518"
+       y1="-3370.1433"
+       x2="5049.6582"
+       y2="-3185.6558" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient24182-2">
+      <stop
+         style="stop-color:#232832;stop-opacity:1"
+         offset="0"
+         id="stop24178" />
+      <stop
+         style="stop-color:#232832;stop-opacity:0;"
+         offset="1"
+         id="stop24180" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g869">
+      <circle
+         style="fill:#91f5f5;fill-opacity:1;stroke:none;stroke-width:0.0711813;stroke-linecap:round;stroke-linejoin:round"
+         id="circle1365"
+         cx="16.933332"
+         cy="16.933332"
+         r="16.933332"
+         inkscape:export-filename="C:\Users\Owner\Desktop\Gyro G Yellow on Meteor Circle.png"
+         inkscape:export-xdpi="33.671467"
+         inkscape:export-ydpi="33.671467" />
+      <g
+         id="g1373"
+         transform="matrix(0.01583806,0,0,-0.01583806,-57.922693,-29.730028)">
+        <path
+           id="path1367"
+           style="fill:#232832;fill-opacity:1;stroke-width:4.03884;stroke-linecap:round;stroke-linejoin:round"
+           d="m 4726.8034,-2110.2418 a 836.038,836.038 0 0 1 -836.0377,-836.0376 836.038,836.038 0 0 1 836.0377,-836.0376 836.038,836.038 0 0 1 701.8578,383.1255 h 0.8731 v 540.2754 h -246.0776 v -459.5318 a 592.33368,592.33368 0 0 0 -456.6533,-220.1645 592.33368,592.33368 0 0 0 -592.333,592.333 592.33368,592.33368 0 0 0 592.333,592.3331 592.33368,592.33368 0 0 0 492.1011,-266.3541 l 203.9502,135.7296 a 836.038,836.038 0 0 1 -696.0513,374.329 z m 325.0429,-748.396 c -60.291,-90.7118 -139.3344,-172.3214 -220.1704,-253.0606 h 351.7793 v 252.7823 z" />
+        <path
+           style="fill:#232832;fill-opacity:1;stroke:none;stroke-width:1.11426;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 4146.1083,-3052.2809 c 151.9479,266.6165 409.3119,483.5664 657.4687,558.5653 -457.5881,-430.9961 -556.2638,-800.3388 -494.6002,-870.6283 l -117.5889,-85.9803 -176.0309,378.0031 z"
+           id="path1369"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:url(#linearGradient1375);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 4191.3879,-3450.3242 117.5889,85.9803 c 52.9165,-44.9058 253.6894,38.2105 369.5873,127.5627 l 259.9661,-108.2001 c -73.0973,-60.9945 -154.6653,-125.9328 -273.0083,-187.0968 l -96.0337,-99.3148 -378.1003,181.0687"
+           id="path1371"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>
